@@ -1,7 +1,11 @@
 # Project description
+>Completed
+
+Website: karnaugh-studio.ishitabhatt.tech
 
 Karnaugh Studio is a browser-based Karnaugh map and digital logic workbench for two through five Boolean variables. It keeps a truth table as the single function state, presents that state as an editable K-map or table, finds exact minimum sum-of-products covers, explains each grouping step, and derives a logic circuit and Verilog from the resulting Boolean AST.
-
+![light mode preview](media/light-mode.png)
+![dark mode preview](media/dark-mode.png)
 The mathematical engine is pure TypeScript and has no React or browser dependency.
 
 # Features
